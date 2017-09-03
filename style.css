@@ -1,0 +1,18 @@
+/* #comment {
+    display: inline-block;
+} */
+
+p.post {
+    border: 1px solid #545454;
+    background-color: #EEFAFF;
+    margin-bottom: 5px;
+}
+
+.remove {
+    margin-bottom: 25px;
+}
+
+#comment {
+    width: 30%;
+    margin-bottom: 5px;
+}
